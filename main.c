@@ -1,7 +1,7 @@
 #include"monty.h"
 /**
  * main - Main entry
- * Description: Monty bytecodes files interpreter
+ * Description: Monty code interpreter
  * @argc: total of arguments
  * @argv: The arguments, monty files
  * Return: int
